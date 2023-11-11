@@ -15,7 +15,7 @@
 1. Install wireguard from [AppStore](https://apps.apple.com/ru/app/wireguard/id1451685025?mt=12)
 2. Configure client using [Configuring Wireguard client](#configuring-wireguard-client)
 
-## Configuring client Wireguard
+## Configuring Wireguard client 
 1. Login to [defguard](https://vpn.pineapple.pp.ua/) with your credentials
 2. Tap add new device ![new device](./images/new_device.png)
 3. Choose name for your device and pick "Generate key pair" option. Each device must have its own config! ![add device](./images/add_device.png)
