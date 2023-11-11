@@ -1,4 +1,9 @@
-site_name: Pineapple Docs
+site_name: Pineapple of Evolution docs
+
+nav:
+  - Home: index.md
+  - VPN/SSO: vpn_sso/index.md
+  - About: about.md
 
 theme:
   name: material
