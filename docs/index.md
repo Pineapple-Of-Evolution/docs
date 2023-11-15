@@ -1,5 +1,5 @@
 # Project overview
-bla-bla-bla todo
+This project is ...
 
 ## Resources map
 
